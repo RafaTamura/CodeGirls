@@ -45,6 +45,7 @@ A estrutura da solução foi projetada para garantir **computação resiliente**
 Para facilitar a compreensão do fluxo de dados e dos componentes, o diagrama de arquitetura foi elaborado com atenção aos detalhes:
 
 * **Ferramenta:** Draw.io
+<img width="1684" height="2408" alt="image" src="https://github.com/user-attachments/assets/a4cda22f-22eb-4ba9-8004-893ebb6621fd" />
 
 ---
 
